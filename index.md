@@ -6,7 +6,7 @@
 
 [Bagaimana Efektivitas Membership Cyclistic Dijalankan?](/pdf/sample_presentation.pdf)
 
-<img src="images/Porto_DA_1.png?raw=true"/>
+<img src="images/porto_cyclistic.png.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
