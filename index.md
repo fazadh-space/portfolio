@@ -5,6 +5,7 @@
 ### RStudio Data Visualization
 
 [Bagaimana Efektivitas Membership Cyclistic Dijalankan?](/pdf/sample_presentation.pdf)
+
 <img src="images/Porto_DA_1.png?raw=true"/>
 
 ---
