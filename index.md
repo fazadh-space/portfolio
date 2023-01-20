@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### RStudio Data Visualization
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Bagaimana Efektivitas Membership Cyclistic (/sample_page)
+<img src="images/Porto_DA_1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
