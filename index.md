@@ -4,7 +4,7 @@
 
 ### RStudio Data Visualization
 
-[Bagaimana Efektivitas Membership Cyclistic Dijalankan?](/pdf/sample_presentation.pdf)
+[Bagaimana Efektivitas Membership Cyclistic Dijalankan?](/pdf/portofolio_cyclistic_fazadh.pdf)
 
 <img src="images/porto_cyclistic.png?raw=true"/>
 
