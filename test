@@ -1,0 +1,1 @@
+-f origin HEAD^:master
