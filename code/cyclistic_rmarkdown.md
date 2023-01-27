@@ -162,7 +162,7 @@ all_trips_v2 %>%
          subtitle="Oktober 2021 Sampai September 2022")+
     scale_y_continuous(breaks = c(0e+00, 2e+05, 4e+05), labels = c("0", "200 rb", "400 rb"))
 ```
-<img src="images/Porto_DA_1_all/Total_Trip_Day.png?raw=true"/>
+<img src="images/Total_Trip_Day.png?raw=true"/>
 
 ### Total Perjalanan Per Hari
 
